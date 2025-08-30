@@ -12,7 +12,32 @@
 - 🔐 Autentikasi pengguna (admin & user)  
 - 📅 Riwayat peminjaman  
 - 📲 Aplikasi mobile untuk peminjam  
-- 🛰️ Integrasi layanan lokasi menggunakan GPS  
+- 🛰️ Integrasi layanan lokasi menggunakan GPS 
+
+## 🧩 Fitur Utama yang Akan Dibangun
+1. Manajemen Mobil
+Tambah, ubah, dan hapus data mobil
+
+Status mobil (tersedia / sedang dipinjam)
+
+2. Peminjaman Mobil
+User bisa request pinjam mobil
+
+Admin menyetujui permintaan
+
+Status peminjaman
+
+3. Pelacakan Lokasi Mobil
+Lokasi dikirim oleh device di mobil (atau user saat dipinjam)
+
+Lokasi ditampilkan dalam peta di aplikasi admin
+
+4. Manajemen User
+Login/register
+
+Role: Admin & User
+
+Riwayat peminjaman
 
 ---
 
@@ -102,12 +127,22 @@ flutter run
 
 ---
 
+## 🧑‍💻 User for login
+### Admin
+- **Username**: admin@gmail.com  
+- **Password**: mantap  
+### Penyewa
+- **Username**: peminjam@gmail.com 
+- **Password**: mantap  
+
+---
+
 ## 🧑‍💻 Kontributor
 
 - **Backend & Admin Panel**: Nama Kamu  
 - **Mobile App**: Nama Kamu  
 - **UI/UX**: Nama Kamu  
-
+- **Dokumentasi/tutor** : https://chatgpt.com/share/68b1b6c5-1ef4-800b-bed3-7374482476c3
 ---
 
 ## 📄 Lisensi
