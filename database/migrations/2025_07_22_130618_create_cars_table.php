@@ -16,6 +16,7 @@ return new class extends Migration
         $table->string('name');
         $table->string('plate_number')->unique();
         $table->enum('status', ['available', 'unavailable'])->default('available');
+        $table->string('image')->nullable(); // tambahkan kolom ini
         $table->timestamps();
     });
     }

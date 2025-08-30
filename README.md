@@ -127,12 +127,22 @@ flutter run
 
 ---
 
+## 🧑‍💻 User for login
+### Admin
+- **Username**: admin@gmail.com  
+- **Password**: mantap  
+### Penyewa
+- **Username**: peminjam@gmail.com 
+- **Password**: mantap  
+
+---
+
 ## 🧑‍💻 Kontributor
 
 - **Backend & Admin Panel**: Nama Kamu  
 - **Mobile App**: Nama Kamu  
 - **UI/UX**: Nama Kamu  
-
+- **Dokumentasi/tutor** : https://chatgpt.com/share/68b1b6c5-1ef4-800b-bed3-7374482476c3
 ---
 
 ## 📄 Lisensi
